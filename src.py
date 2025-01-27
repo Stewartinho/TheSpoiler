@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r"Kurt Track data")
+df = pd.read_csv("Spoilers.csv")
 
 print(df.head())
